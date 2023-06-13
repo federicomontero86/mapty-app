@@ -1418,3 +1418,5 @@ class App {
 }
 
 const app = new App();
+
+// LEC: Final Considerations (Theory)
